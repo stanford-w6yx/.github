@@ -7,7 +7,7 @@ Welcome to the Stanford Amateur Radio Club, aka W6YX!
 Here are a few steps for getting started as a new member or associate:
 
 1. Join our Slack **[w6yx.slack.com](https://w6yx.slack.com)** (Our go-to for event announcements, project communication, and onboarding activities)
-2. Fill out [this form](https://forms.gle/kJorf4deb2kkgXXK8) to request access to our online communication channels and workspaces (Mailing list, Slack, GitHub Org, Google Drive, etc.)
+2. Fill out [this form](https://forms.gle/jeKBjbX4LyHbbJBf7) to request access to our online communication channels and workspaces (Mailing list, Slack, GitHub Org, Google Drive, etc.)
 3. Fill out the [onboarding survey](https://forms.gle/kJorf4deb2kkgXXK8) so we can get a better sense of your background and interests in amateur radio!
 4. If you are a student, please register as a club member on [Cardinal Engage](https://cardinalengage.stanford.edu/feeds?type=club&type_id=44738&tab=about).
 5. Follow us on [Instagram](https://www.instagram.com/stanford.w6yx/) and [Youtube](https://www.youtube.com/channel/UC8Af2COatGwi8F5Ebe__bzA/videos)!
